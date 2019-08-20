@@ -1,4 +1,4 @@
-package com.company;
+package com.dataStructures;
 
 public class OrderedArray {
     public void implementation(int[] arr, int i) {

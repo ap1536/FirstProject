@@ -1,4 +1,4 @@
-package com.company;
+package com.dataStructures;
 
 public class SelectionSort {
     public void implementation(int[] arr) {

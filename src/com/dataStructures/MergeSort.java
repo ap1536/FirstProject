@@ -1,4 +1,4 @@
-package com.company;
+package com.dataStructures;
 
 public class MergeSort {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company;
+package com.dataStructures;
 
 public class BubbleSort {
     public void implementation(int[] arr) {
